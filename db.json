@@ -1,0 +1,242 @@
+{
+  "topheader": [
+    {
+      "id": 1,
+      "headerImgPath": "https://github.com/rupeshubhagat/myImages/blob/main/images/banner/binary.jpg?raw=true",
+      "userLogo": "https://github.com/rupeshubhagat/myImages/blob/70cfc368af9a340ceef91a5cd19a380c3bb95b6e/images/rupesh_photo/rupesh_160_150/rupesh_photo.jpg?raw=true",
+      "name": "Rupesh Umaji Bhagat",
+      "email": "bhagat.r29@gmail.com",
+      "role": "FrontEnd Developer",
+      "dob": "29 Nov 1992",
+      "contact": 8329324580,
+      "location": "Pune,Maharashtra",
+      "socialLinks": [
+        {
+          "id": 1,
+          "name":"facebook",
+          "link": "https://www.facebook.com/profile.php?id=100003626185241",
+          "icon": "https://raw.githubusercontent.com/rupeshubhagat/myImages/23db04d6bb91a056ea1f3f4f426f183f2ef88541/images/social/facebook.svg"
+        },
+        {
+          "id": 2,
+          "name":"instagram",
+          "link": "https://instagram.com/bhagat_rupesh2911",
+          "icon": "https://raw.githubusercontent.com/rupeshubhagat/myImages/23db04d6bb91a056ea1f3f4f426f183f2ef88541/images/social/instagram.svg"
+        },
+        {
+          "id": 3,
+          "name":"linkedin",
+          "link": "https://www.linkedin.com/in/rupesh-bhagat-55b170119/",
+          "icon": "https://raw.githubusercontent.com/rupeshubhagat/myImages/23db04d6bb91a056ea1f3f4f426f183f2ef88541/images/social/linkedin.svg"
+        },
+        {
+          "id": 4,
+          "name":"twitter",
+          "link": "",
+          "icon": "https://raw.githubusercontent.com/rupeshubhagat/myImages/23db04d6bb91a056ea1f3f4f426f183f2ef88541/images/social/twitter.svg"
+        }
+      ],
+      "genralInfo": [
+        {
+          "id": 1,
+          "title": "Email",
+          "titleValue": "bhagat.r29@gmail.com"
+        },
+        {
+          "id": 2,
+          "title": "Birthday",
+          "titleValue": "29 Nov 1992"
+        },
+        {
+          "id": 3,
+          "title": "Contact",
+          "titleValue": "8329324580"
+        },
+        {
+          "id": 4,
+          "title": "Location",
+          "titleValue": "Pune Maharashtra"
+        }
+      ]
+    }
+  ],
+  "tabapi": [
+        {
+          "id": 1,
+          "aboutTab":[
+            {
+              "id":1,
+              "title":"About Me",
+              "nameAbout":"Rupesh Umaji Bhagat",
+              "careerObjective":"To achieve a successful and challenging career by exploring my skills to fulfilThe company expectation & growth.",
+              "areaOfKnowledge":["Working Experience Adobe XD, Illustrator, Figma","Working Experience in React/Angular","Skilled in multitasking and working on several projectssimultaneously","Unique ability to improvise, grasp new skills, and troubleshootproblems","Experienced in communicating with the creative team andclients","Ability to resolve cross-browser issues"],
+              "downloadResumeLink":"",
+              "totalYearOfExp":"4 Years",
+              "Academia":[
+                {
+                  "id":1,
+                  "name":"degree",
+                  "value":"B.E.(Computer Science & Engg), 2015 with 68.00% Deogiri College of Engineering, Aurangabad Maharashtra"
+                },
+                {
+                  "id":2,
+                  "name":"diploma",
+                  "value":"Diploma(IT), 2012 with 69.00% SBNM Polytechnic, Aurangabad ( MaharashtraState Board of Technical Education)"
+                },
+                {
+                  "id":3,
+                  "name":"ssc",
+                  "value":"Class X, 2008 with 82.00% Deogiri Vidyalaya , Daulatabad ( Maharashtra Board )"
+                }
+              ],
+              "address":[
+                {
+                  "id":1,
+                  "permananent":[
+                    {
+                      "addressLine1":"Umaji Bhagat Farm",
+                      "addressLine2":"At Post Maliwada",
+                      "nearBy":"Near To Jain International School",
+                      "city":"Aurangabad",
+                      "state":"Maharashtra",
+                      "country":"India",
+                      "pincode": 431002
+                    }
+                  ],
+                  "current":[
+                    {
+                      "addressLine1":"Flat No 101 , Datta Krupa Niwas",
+                      "addressLine2":"Hinjewadi Gao",
+                      "nearBy":"Near to Hanuman Mandir",
+                      "city":"Pune",
+                      "state":"Maharashtra",
+                      "country":"India",
+                      "pincode": 411057
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "skillTab":[
+            {
+              "id":12,
+              "skills":[
+                {
+                  "id":1,
+                  "skillName":"HTML",
+                  "skillPercentage": 100
+                },
+                {
+                  "id":2,
+                  "skillName":"CSS",
+                  "skillPercentage": 80
+                },
+                {
+                  "id":3,
+                  "skillName":"JAVA SCRIPT",
+                  "skillPercentage": 80
+                },
+                {
+                  "id":4,
+                  "skillName":"BOOTSTRAP",
+                  "skillPercentage": 90
+                },
+                {
+                  "id":5,
+                  "skillName":"REACT JS",
+                  "skillPercentage": 70
+                },
+                {
+                  "id":6,
+                  "skillName":"ANGULAR 2+",
+                  "skillPercentage": 60
+                }
+              ]
+            }
+          ],
+          "Projects":[   
+                {
+                  "id":1,
+                  "projectName":"Slurrp",
+                  "clientName": "Hindustan Times",
+                  "teamSize":"30",
+                  "role":"Frontend Developer",
+                  "duration":"6 Months",
+                  "workLink":"https://www.slurrp.com/",
+                  "technologyUsed":"HTML,CSS,JAVA SCRIPT,REACT JS"
+                },
+                {
+                  "id":2,
+                  "projectName":"MintgenieStock Market",
+                  "clientName": "Hindustan Times",
+                  "teamSize":"30",
+                  "role":"Frontend Developer",
+                  "duration":"6 Months",
+                  "workLink":"https://www.mintgenie.livemint.com/",
+                  "technologyUsed":"HTML,CSS,JAVA SCRIPT,REACT JS"
+                },
+                {
+                  "id":3,
+                  "projectName":"Maharashtra Pollution Control Board(MPCB)",
+                  "clientName": "Maharashtra Pollution Control Board(MPCB)",
+                  "teamSize":"10",
+                  "role":"Frontend Developer",
+                  "duration":"2 Months",
+                  "workLink":"https://mpcb.gov.in/node",
+                  "technologyUsed":"HTML,CSS,JAVA SCRIPT,REACT JS"
+                },
+                {
+                  "id":4,
+                  "projectName":"CoreX",
+                  "clientName": "",
+                  "teamSize":"10",
+                  "role":"Frontend Developer",
+                  "duration":"3 Months",
+                  "workLink":"",
+                  "technologyUsed":"HTML 5,CSS,JAVA SCRIPT,ANGULAR 6,JQUERY"
+                },
+                {
+                  "id":5,
+                  "projectName":"HDFC Cargo",
+                  "clientName": "",
+                  "teamSize":"15",
+                  "role":"Frontend Developer",
+                  "duration":"3 Months",
+                  "workLink":"https://www.hdfcergo.com/",
+                  "technologyUsed":"HTML 5,CSS,JAVA SCRIPT,JQUERY"
+                }
+          ],
+          "experience":[
+            {
+              "id":1,
+              "compName":"Capgemini India Pvt Ltd",
+              "compLocation":"Pune,Maharashtra,India",
+              "position":"Associate Consultant",
+              "specialization":"Frontend Developer/Web Developer",
+              "startDate":"21/06/2022",
+              "lastWorkingDate":"current"
+            },
+            {
+              "id":2,
+              "compName":"Neosoft Technologies",
+              "compLocation":"Pune,Maharashtra,India",
+              "position":"Frontend Developer",
+              "specialization":"Frontend Developer/Web Developer",
+              "startDate":"15/10/2019",
+              "lastWorkingDate":"15/06/2022"
+            },
+            {
+              "id":3,
+              "compName":"Hematite Infotech Pvt Ltd",
+              "compLocation":"Pune,Maharashtra,India",
+              "position":"Software Developer",
+              "specialization":"Frontend Developer/Web Developer",
+              "startDate":"30/08/2018",
+              "lastWorkingDate":"14/10/2022"
+            }
+          ]
+
+        }
+      ]
+}
